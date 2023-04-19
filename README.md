@@ -1,4 +1,4 @@
-# MenuDocs Official Written Guides.
+# LavaCat Official Written Guides.
 ---
 
 ## Why a written guide from MenuDocs?
