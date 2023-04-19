@@ -6,7 +6,7 @@ const navbar = [
     },
     { 
         text: 'Main Site', 
-        link: 'https://menudocs.org/',
+        link: 'https://lavacat.xyz/',
         icon: 'reco-blog'
     },
     { 
