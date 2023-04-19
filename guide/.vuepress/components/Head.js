@@ -4,21 +4,21 @@ const head =  [
         { 
             rel: 'icon', 
             href: '/images/favicon.ico', 
-            alt: 'menudocs logo' 
+            alt: 'lavacat logo' 
         }
     ],
     [
         'meta', 
         { 
             name: 'og:title', 
-            content: 'Official MenuDocs Guide' 
+            content: 'Official LavaCat docs' 
         }
     ],
     [
         'meta', 
         { 
             name: 'og:description', 
-            content: 'Official MenuDocs\' Written Guides for beginner to high level developers.' 
+            content: 'Official LavaCat\' documentation' 
         }
     ],
     [
@@ -32,7 +32,7 @@ const head =  [
         'meta', 
         { 
             name: 'og:url', 
-            content: 'https://guides.menudocs.org/' 
+            content: 'https://lavacat.xyz/' 
         }
     ],
     [
