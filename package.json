@@ -1,5 +1,5 @@
 {
-  "name": "menudocs-guide",
+  "name": "lavacat-docs",
   "version": "0.0.2",
   "description": "This is the long awaited guide for menudocs",
   "main": "src/index.js",
