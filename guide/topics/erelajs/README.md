@@ -6,7 +6,7 @@ authors:
 categories:
 - Javascript
 tags:
-  LavaCat
+- LavaCat
 - Bot Development
 ---
 
