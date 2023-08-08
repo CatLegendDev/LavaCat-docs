@@ -1,12 +1,12 @@
 ---
-title: Introduction to Erela.js
+title: Introduction to LavaCat
 authors:
-- Solaris9
-- MenuDocs
+- BleachStudio
+- CatLegendDev
 categories:
 - Javascript
 tags:
-- Erela.js
+  LavaCat
 - Bot Development
 ---
 
