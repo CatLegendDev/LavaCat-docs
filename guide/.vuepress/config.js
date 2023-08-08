@@ -3,7 +3,7 @@ const nav = require('./components/Navbar.js');
 const head = require('./components/Head.js');
 
 const config = {
-    title: 'MenuDocs Guide',
+    title: 'LavaCat',
     head,
     theme: 'dart',
     themeConfig: {
